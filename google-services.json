@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "180345962289",
+    "project_id": "thinkrealty-e5613",
+    "storage_bucket": "thinkrealty-e5613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180345962289:android:815907549c4cad6b0f3a10",
+        "android_client_info": {
+          "package_name": "com.thinkrealty.ae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180345962289-k1ldu1rhoe6q08b91ajqtsddh8m0eg4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thinkrealty.ae",
+            "certificate_hash": "0fb2ec08e2c69d800077687ba6786f82e350cd50"
+          }
+        },
+        {
+          "client_id": "180345962289-odqh06mbrea7m6kmgq3o0542k2fs5i8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxlScHELQqFwLo1Szrt_O2K_2l0jucb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180345962289-odqh06mbrea7m6kmgq3o0542k2fs5i8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
